@@ -1,2 +1,2 @@
 # static-webapp
-Static Web Appliction
+A Static Web Appliction
