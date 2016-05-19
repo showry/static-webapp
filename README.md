@@ -1,2 +1,2 @@
 # static-Webapps
-A Static Responsive Web Appliction
+A Static Responsive Web Applictionz
